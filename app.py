@@ -169,5 +169,5 @@ st.divider()
 with st.expander("☕ Essa calculadora te ajudou a evitar prejuízo? Apoie o projeto!"):
     st.write("Este aplicativo é **100% gratuito**. Se ele te ajudou a lucrar mais hoje, considere contribuir com qualquer valor via Pix para manter o servidor no ar:")
     # Coloque a sua chave Pix real abaixo
-    st.code("alexdesouzabispo@gmail.com, language="text")
+    st.code("alexdesouzabispo@gmail.com", language="text")
     st.caption("Copie a chave acima e cole no aplicativo do seu banco. Muito obrigado e boas corridas!")
